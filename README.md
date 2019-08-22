@@ -1,2 +1,2 @@
 # Web-Development-Practices
-This repository includes practices related to web development.
+Practices of HTML/CSS/Bootstrap
